@@ -15,7 +15,7 @@ elements.
 ## Install
 
 ```lua
-local Amphibia = loadstring(game:HttpGet("https://raw.githubusercontent.com/luaprince/amphibia/refs/heads/main/UI/UILibrary.lua"))()
+local Amphibia = loadstring(game:HttpGet("https://raw.githubusercontent.com/janederose/amphibia-library/refs/heads/main/library.lua"))()
 ```
 
 ## Quick start
